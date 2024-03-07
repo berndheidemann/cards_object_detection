@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/andy8744/playing-cards-object-detection-dataset/data
