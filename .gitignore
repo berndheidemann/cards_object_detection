@@ -2,3 +2,10 @@ test
 train
 valid
 *.pth
+.neptune
+.neptune/
+lightning_logs
+models
+.log
+*.ckpg
+__pycache__
