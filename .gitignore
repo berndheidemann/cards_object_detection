@@ -7,5 +7,6 @@ valid
 lightning_logs
 models
 .log
-*.ckpg
+*.ckpt
 __pycache__
+*.zip
